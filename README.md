@@ -5,7 +5,7 @@
 This project demonstrates an end-to-end data engineering pipeline to analyze COVID-19 data for 20 countries using Azure services.
 
 ## 🚀 Architecture
-![Architecture Diagram](architecture/covidazure.jpeg)
+![Architecture Diagram](covidazure.jpeg)
 
 - **Data Source**: COVID-19 API (disease.sh)
 - **Storage**: Azure Data Lake (Raw, Ingested, Presentation layers)
